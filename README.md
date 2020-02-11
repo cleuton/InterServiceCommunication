@@ -6,6 +6,8 @@ Todos os arquivos aqui gerados estão liberados sob a licença Apache 2.0.
 
 **Cleuton Sampaio**.
 
+[![](./banner_livros2.png)](https://www.lcm.com.br/site/#livros/busca?term=cleuton)
+
 ## Pré-requisitos para criar e rodar essa demonstração
 
 - python 3.7
